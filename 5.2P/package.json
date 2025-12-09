@@ -1,0 +1,12 @@
+{
+  "name": "sit725-5.2p-books",
+  "version": "1.0.0",
+  "description": "SIT725 Task 5.2P MVC Books Catalog",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
